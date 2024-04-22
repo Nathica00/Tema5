@@ -23,7 +23,7 @@ include 'Perro.php';
 $gato1=new Gato("Felix");
 $gato1->makeSound();
 
-$perro1=new Perro("Felix");
+$perro1=new Perro("Pepe");
 $perro1->makeSound();
 
 ?>
